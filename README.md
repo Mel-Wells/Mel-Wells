@@ -1,7 +1,8 @@
 <html>
   <body>
     <h1 align="center">👋 Hi, I'm Melissa Wells! 🤠</h1>
-    <p align="center">I'm a Computer Science student from Houston, Texas, who is growing their skills as a Fullstack Developer~ ✨</p> 
+    <p align="center">I'm a Computer Science student from Houston, Texas, who is growing their skills as a Fullstack Engineer~ ✨</p> 
+    <p>I also have a growing interest in AI and am working on ways to implement its power into applications that I build.</p>
     <h2 align ="center">#30NitesOfCode:</h2>
 
 <p align ="center">
@@ -20,7 +21,8 @@
   🎮 I love playing video games and am a huge fan of games such as Doom, Resident Evil, Fatal Frame, and Earthbound!<br>
   🎵 I collect vinyl records and tape cassettes.<br>
   🍜 I'm a foodie!<br>
-  📺 I love Anime! My favorites are Akira, Cowboy Bebop, and Evangelion.
+  📺 I love Anime! My favorites are Akira, Cowboy Bebop, and Evangelion. 
+
                                                                                    
   </body>
 </html>
