@@ -2,7 +2,7 @@
   <body>
     <h1 align="center">👋 Hi, I'm Melissa Wells! 🤠</h1>
     <p align="center">I'm a Computer Science student from Houston, Texas, who is growing their skills as a Fullstack Engineer~ ✨</p> 
-    <p>I also have a growing interest in AI and am working on ways to implement its power into applications that I build.</p>
+    <p align="center">I also have a growing interest in AI and am working on ways to implement its power into applications that I build.</p>
     <h2 align ="center">#30NitesOfCode:</h2>
 
 <p align ="center">
