@@ -1,7 +1,7 @@
 <html>
   <body>
     <h1 align="center">👋 Hi, I'm Melissa Wells! 🤠</h1>
-    <p align="center">I'm a Computer Science student from Houston, Texas, who is growing their skills as a Software Engineer~ ✨</p> 
+    <p align="center">I'm a Software Engineering student with an associate in Computer Science from Houston, Texas, who is growing my skills as a Software Engineer~ ✨</p> 
     <p align="center">I also have a growing interest in AI and am working on ways to implement its power and potential into applications that I build.</p>
     <h2 align ="center">#30NitesOfCode:</h2>
 
@@ -15,6 +15,7 @@
   <li>Intermediate Python</li>
   <li>Flask</li>
   <li>HTML/CSS</li>
+  <li>JavaScript</li>
 </ul>
 <h3>Fun Facts⚡</h3>
 <p>
