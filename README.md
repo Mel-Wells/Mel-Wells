@@ -1,8 +1,8 @@
 <html>
   <body>
     <h1 align="center">👋 Hi, I'm Melissa Wells! 🤠</h1>
-    <p align="center">I'm a Software Engineering student with an associate in Computer Science from Houston, Texas, who is growing my skills as a Software Engineer~ ✨</p> 
-    <p align="center">I also have a growing interest in AI and am working on ways to implement its power and potential into applications that I build.</p>
+    <p>I’m a Software Engineering student pursuing a Bachelor of Science degree with an Associate's in Computer Science, based in Houston, Texas. I’m actively honing my web development and software engineering skills, focusing on creating user-friendly and impactful applications.</p>
+<p>My interests extend to artificial intelligence, where I’m exploring innovative ways to integrate AI's transformative potential into practical and engaging software solutions.</p>
     <h2 align ="center">#30NitesOfCode:</h2>
 
 <p align ="center">
@@ -12,9 +12,9 @@
 </p>
 <h3>What I'm learning... 🌱</h3>
 <ul>
-  <li>Intermediate Python</li>
   <li>Flask</li>
-  <li>HTML/CSS</li>
+  <li>Advanced CSS principles such as Flexbox and grid<li>
+  <li>Bootstrap</li>
   <li>JavaScript</li>
 </ul>
 <h3>Fun Facts⚡</h3>
