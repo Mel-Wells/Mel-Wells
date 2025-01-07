@@ -13,6 +13,7 @@
 <h3>What I'm learning... 🌱</h3>
 <ul>
   <li>Flask</li>
+  <li>PHP</li>
   <li>Advanced CSS principles such as Flexbox and grid</li>
   <li>Bootstrap</li>
   <li>JavaScript</li>
